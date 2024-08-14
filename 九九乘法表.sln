@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "九九乘法表", "九九乘法表.vcxproj", "{374D034C-0D94-4DF5-9F41-719BF64A9CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374D034C-0D94-4DF5-9F41-719BF64A9CCA}.Debug|x64.ActiveCfg = Debug|x64
+		{374D034C-0D94-4DF5-9F41-719BF64A9CCA}.Debug|x64.Build.0 = Debug|x64
+		{374D034C-0D94-4DF5-9F41-719BF64A9CCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{374D034C-0D94-4DF5-9F41-719BF64A9CCA}.Debug|x86.Build.0 = Debug|Win32
+		{374D034C-0D94-4DF5-9F41-719BF64A9CCA}.Release|x64.ActiveCfg = Release|x64
+		{374D034C-0D94-4DF5-9F41-719BF64A9CCA}.Release|x64.Build.0 = Release|x64
+		{374D034C-0D94-4DF5-9F41-719BF64A9CCA}.Release|x86.ActiveCfg = Release|Win32
+		{374D034C-0D94-4DF5-9F41-719BF64A9CCA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9ED46A7-83AD-4782-AD9E-05EC5CF9DB4B}
+	EndGlobalSection
+EndGlobal
